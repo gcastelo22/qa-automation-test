@@ -32,8 +32,8 @@ Before getting started, ensure you have the following installed on your machine:
 ## 🚀 Setup & Installation
 
 1. **Clone the repository:**
-   git clone https://github.com/gcastelo22/dstny-qa-automation-test.git
-   cd dstny-qa-automation-test
+   git clone https://github.com/gcastelo22/qa-automation-test.git
+   cd qa-automation-test
 
 2. **Install project dependencies and build the project:**
    mvn clean compile
